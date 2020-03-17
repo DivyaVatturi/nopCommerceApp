@@ -1,0 +1,10 @@
+com\nopcommerce\pageObjects\Email_NameVerification.class
+com\nopcommerce\pageObjects\LoginPage.class
+com\nopcommerce\testBase\BaseClass.class
+com\nopcommerce\utilities\ExtentReportManager.class
+com\nopcommerce\testCases\TC_LoginDDT_002.class
+com\nopcommerce\testCases\TC_Email_NameVerification_004.class
+com\nopcommerce\testCases\TC_LoginTest_001.class
+com\nopcommerce\pageObjects\AddNewCustomer.class
+com\nopcommerce\utilities\XLUtils.class
+com\nopcommerce\testCases\TC_AddCustomer_003.class

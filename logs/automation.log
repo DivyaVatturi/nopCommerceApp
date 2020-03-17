@@ -1,0 +1,71 @@
+[INFO ] 2020-03-16 16:45:19.406 [main] TC_LoginTest_001 - ***********Starting TC_LoginTest_001 ***********
+[INFO ] 2020-03-16 16:45:22.196 [main] TC_LoginTest_001 - ***********Passing UserData ***********
+[INFO ] 2020-03-16 16:45:32.065 [main] TC_LoginTest_001 - ***********Login Validation ***********
+[INFO ] 2020-03-16 16:45:32.081 [main] TC_LoginTest_001 - ***********TC_LoginTest_001 Passed ***********
+[INFO ] 2020-03-16 16:45:42.547 [main] TC_AddCustomer_003 - ********** Starting TC_AddCustomer_003 **********
+[INFO ] 2020-03-16 16:45:42.547 [main] TC_AddCustomer_003 - ********** Opening URL **********
+[INFO ] 2020-03-16 16:45:44.971 [main] TC_AddCustomer_003 - ********** Providing LoginDetails **********
+[INFO ] 2020-03-16 16:45:52.649 [main] TC_AddCustomer_003 - **********Adding Customer  **********
+[INFO ] 2020-03-16 16:46:12.545 [main] TC_AddCustomer_003 - ********** Verifying Success **********
+[INFO ] 2020-03-16 16:55:03.710 [main] TC_LoginTest_001 - ***********Starting TC_LoginTest_001 ***********
+[INFO ] 2020-03-16 16:55:06.266 [main] TC_LoginTest_001 - ***********Passing UserData ***********
+[INFO ] 2020-03-16 16:55:15.885 [main] TC_LoginTest_001 - ***********Login Validation ***********
+[INFO ] 2020-03-16 16:55:15.903 [main] TC_LoginTest_001 - ***********TC_LoginTest_001 Passed ***********
+[INFO ] 2020-03-16 16:55:26.382 [main] TC_AddCustomer_003 - ********** Starting TC_AddCustomer_003 **********
+[INFO ] 2020-03-16 16:55:26.383 [main] TC_AddCustomer_003 - ********** Opening URL **********
+[INFO ] 2020-03-16 16:55:28.628 [main] TC_AddCustomer_003 - ********** Providing LoginDetails **********
+[INFO ] 2020-03-16 16:55:35.932 [main] TC_AddCustomer_003 - **********Adding Customer  **********
+[INFO ] 2020-03-16 19:14:44.187 [main] TC_LoginTest_001 - ***********Starting TC_LoginTest_001 ***********
+[INFO ] 2020-03-16 19:14:46.848 [main] TC_LoginTest_001 - ***********Passing UserData ***********
+[INFO ] 2020-03-16 19:14:55.937 [main] TC_LoginTest_001 - ***********Login Validation ***********
+[INFO ] 2020-03-16 19:14:55.953 [main] TC_LoginTest_001 - ***********TC_LoginTest_001 Passed ***********
+[INFO ] 2020-03-16 19:15:07.301 [main] TC_AddCustomer_003 - ********** Starting TC_AddCustomer_003 **********
+[INFO ] 2020-03-16 19:15:07.302 [main] TC_AddCustomer_003 - ********** Opening URL **********
+[INFO ] 2020-03-16 19:15:10.408 [main] TC_AddCustomer_003 - ********** Providing LoginDetails **********
+[INFO ] 2020-03-16 19:15:16.455 [main] TC_AddCustomer_003 - **********Adding Customer  **********
+[INFO ] 2020-03-16 19:15:42.140 [main] TC_AddCustomer_003 - ********** Verifying Success **********
+[INFO ] 2020-03-16 20:20:32.291 [main] TC_LoginTest_001 - ***********Starting TC_LoginTest_001 ***********
+[INFO ] 2020-03-16 20:20:35.110 [main] TC_LoginTest_001 - ***********Passing UserData ***********
+[INFO ] 2020-03-16 20:20:43.767 [main] TC_LoginTest_001 - ***********Login Validation ***********
+[INFO ] 2020-03-16 20:20:43.790 [main] TC_LoginTest_001 - ***********TC_LoginTest_001 Passed ***********
+[INFO ] 2020-03-16 20:20:54.140 [main] TC_AddCustomer_003 - ********** Starting TC_AddCustomer_003 **********
+[INFO ] 2020-03-16 20:20:54.141 [main] TC_AddCustomer_003 - ********** Opening URL **********
+[INFO ] 2020-03-16 20:20:56.710 [main] TC_AddCustomer_003 - ********** Providing LoginDetails **********
+[INFO ] 2020-03-16 20:21:03.545 [main] TC_AddCustomer_003 - **********Adding Customer  **********
+[INFO ] 2020-03-16 20:21:25.102 [main] TC_AddCustomer_003 - ********** Verifying Success **********
+[INFO ] 2020-03-16 21:00:59.580 [main] TC_LoginTest_001 - ***********Starting TC_LoginTest_001 ***********
+[INFO ] 2020-03-16 21:01:02.426 [main] TC_LoginTest_001 - ***********Passing UserData ***********
+[INFO ] 2020-03-16 21:01:11.221 [main] TC_LoginTest_001 - ***********Login Validation ***********
+[INFO ] 2020-03-16 21:01:11.236 [main] TC_LoginTest_001 - ***********TC_LoginTest_001 Passed ***********
+[INFO ] 2020-03-16 21:01:21.815 [main] TC_AddCustomer_003 - ********** Starting TC_AddCustomer_003 **********
+[INFO ] 2020-03-16 21:01:21.815 [main] TC_AddCustomer_003 - ********** Opening URL **********
+[INFO ] 2020-03-16 21:01:24.356 [main] TC_AddCustomer_003 - ********** Providing LoginDetails **********
+[INFO ] 2020-03-16 21:01:31.434 [main] TC_AddCustomer_003 - **********Adding Customer  **********
+[INFO ] 2020-03-16 21:01:50.247 [main] TC_AddCustomer_003 - ********** Verifying Success **********
+[INFO ] 2020-03-16 21:02:46.025 [main] TC_LoginTest_001 - ***********Starting TC_LoginTest_001 ***********
+[INFO ] 2020-03-16 21:02:48.182 [main] TC_LoginTest_001 - ***********Passing UserData ***********
+[INFO ] 2020-03-16 21:02:57.169 [main] TC_LoginTest_001 - ***********Login Validation ***********
+[INFO ] 2020-03-16 21:02:57.180 [main] TC_LoginTest_001 - ***********TC_LoginTest_001 Passed ***********
+[INFO ] 2020-03-16 21:03:07.527 [main] TC_AddCustomer_003 - ********** Starting TC_AddCustomer_003 **********
+[INFO ] 2020-03-16 21:03:07.528 [main] TC_AddCustomer_003 - ********** Opening URL **********
+[INFO ] 2020-03-16 21:03:10.634 [main] TC_AddCustomer_003 - ********** Providing LoginDetails **********
+[INFO ] 2020-03-16 21:03:17.482 [main] TC_AddCustomer_003 - **********Adding Customer  **********
+[INFO ] 2020-03-16 21:03:35.991 [main] TC_AddCustomer_003 - ********** Verifying Success **********
+[INFO ] 2020-03-16 21:20:59.547 [main] TC_LoginTest_001 - ***********Starting TC_LoginTest_001 ***********
+[INFO ] 2020-03-16 21:21:02.535 [main] TC_LoginTest_001 - ***********Passing UserData ***********
+[INFO ] 2020-03-16 21:21:11.356 [main] TC_LoginTest_001 - ***********Login Validation ***********
+[INFO ] 2020-03-16 21:21:11.371 [main] TC_LoginTest_001 - ***********TC_LoginTest_001 Passed ***********
+[INFO ] 2020-03-16 21:21:21.743 [main] TC_AddCustomer_003 - ********** Starting TC_AddCustomer_003 **********
+[INFO ] 2020-03-16 21:21:21.743 [main] TC_AddCustomer_003 - ********** Opening URL **********
+[INFO ] 2020-03-16 21:21:24.135 [main] TC_AddCustomer_003 - ********** Providing LoginDetails **********
+[INFO ] 2020-03-16 21:21:30.446 [main] TC_AddCustomer_003 - **********Adding Customer  **********
+[INFO ] 2020-03-16 21:21:48.719 [main] TC_AddCustomer_003 - ********** Verifying Success **********
+[INFO ] 2020-03-16 21:28:25.224 [main] TC_LoginTest_001 - ***********Starting TC_LoginTest_001 ***********
+[INFO ] 2020-03-16 21:28:27.598 [main] TC_LoginTest_001 - ***********Passing UserData ***********
+[INFO ] 2020-03-16 21:28:36.787 [main] TC_LoginTest_001 - ***********Login Validation ***********
+[INFO ] 2020-03-16 21:28:36.803 [main] TC_LoginTest_001 - ***********TC_LoginTest_001 Passed ***********
+[INFO ] 2020-03-16 21:28:47.225 [main] TC_AddCustomer_003 - ********** Starting TC_AddCustomer_003 **********
+[INFO ] 2020-03-16 21:28:47.226 [main] TC_AddCustomer_003 - ********** Opening URL **********
+[INFO ] 2020-03-16 21:28:49.868 [main] TC_AddCustomer_003 - ********** Providing LoginDetails **********
+[INFO ] 2020-03-16 21:28:56.235 [main] TC_AddCustomer_003 - **********Adding Customer  **********
+[INFO ] 2020-03-16 21:29:15.161 [main] TC_AddCustomer_003 - ********** Verifying Success **********
